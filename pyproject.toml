@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "kinetic-python-keypair-compact"
+version = "0.1.0"
+description = ""
+authors = ["Alex Ramirez <alexander.ramirez@gmail.com>"]
+readme = "README.md"
+packages = [{include = "kinetic_python_keypair_compact"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
