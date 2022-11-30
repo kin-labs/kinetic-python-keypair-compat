@@ -33,7 +33,7 @@ class StellarKeypair:
         pass  
 
 
-    def rawPublicKey():
+    def raw_public_key():
         """
         Returns raw public key
         @returns {Buffer}

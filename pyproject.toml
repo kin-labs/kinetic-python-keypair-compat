@@ -8,6 +8,7 @@ packages = [{include = "kinetic_python_keypair_compact"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
+kinetic-sdk = "^1.0.0rc9.post1"
 
 
 [tool.poetry.group.dev.dependencies]
